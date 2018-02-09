@@ -1,0 +1,11 @@
+Test   1: Future time = 22:25
+Test   2: Future time =  8:45
+Test   3: Future time = 21: 0
+Test   4: Future time = 20:45
+Test   5: Future time = 17:25
+Test   6: Future time = 21: 0
+Test   7: Future time = 20:45
+Test   8: Future time = 17:25
+Test   9: Future time =  1: 0
+Test  10: Future time = 14:40
+Test  11: Future time = 12: 0

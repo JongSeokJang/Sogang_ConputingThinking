@@ -1,0 +1,9 @@
+The square results are
+  1  9 25 64
+ 16 64 81 25 49
+  4 16 36 49  9 36
+1219004843025 648281  4
+1089 36 81  1 25  9  41521
+-----------------
+ The sum of input data is395-----------------
+ The average of input data is13.167
